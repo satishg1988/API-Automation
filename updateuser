@@ -1,0 +1,9 @@
+{
+"id":3,
+"email":"satish.ghanta@test.com",
+"first_name":"Satish",
+"last_name":"Ghanta",
+"avatar":"https://reqres.in/img/faces/3-image.jpg",
+"url":"https://reqres.in/#support-heading",
+"text":"Updated Text: To keep ReqRes free, contributions towards server costs are appreciated!"
+}
